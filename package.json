@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "formik": "^2.4.6",
+    "react-toastify": "^10.0.5"
+  }
+}
